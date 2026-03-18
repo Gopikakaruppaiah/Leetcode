@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
