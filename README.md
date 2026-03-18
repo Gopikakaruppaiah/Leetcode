@@ -24,6 +24,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -41,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
