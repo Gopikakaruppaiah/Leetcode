@@ -5,11 +5,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
