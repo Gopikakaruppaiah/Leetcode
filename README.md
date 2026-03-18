@@ -29,6 +29,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
