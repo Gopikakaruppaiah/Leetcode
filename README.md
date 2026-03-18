@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -65,4 +67,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
