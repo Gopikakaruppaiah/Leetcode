@@ -10,6 +10,7 @@
 | [0155-min-stack](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@
 | [0012-integer-to-roman](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sorting
