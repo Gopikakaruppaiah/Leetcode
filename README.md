@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
