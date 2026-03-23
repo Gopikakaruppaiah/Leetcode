@@ -72,6 +72,7 @@
 | [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -88,6 +89,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
