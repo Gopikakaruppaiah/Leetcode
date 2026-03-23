@@ -9,6 +9,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Design
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
@@ -114,6 +116,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -125,5 +128,6 @@
 | [0021-merge-two-sorted-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
