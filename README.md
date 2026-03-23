@@ -36,6 +36,7 @@
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -99,6 +100,7 @@
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -171,4 +173,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
