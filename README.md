@@ -12,6 +12,7 @@
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0707-design-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
 ## Monotonic Stack
@@ -29,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +51,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -184,6 +188,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +218,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
