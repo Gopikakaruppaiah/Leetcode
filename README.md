@@ -87,6 +87,7 @@
 | [0012-integer-to-roman](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -134,6 +135,7 @@
 | [0125-valid-palindrome](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -175,6 +177,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
