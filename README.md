@@ -10,6 +10,7 @@
 | [0155-min-stack](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -45,6 +46,7 @@
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -81,6 +83,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Counting
