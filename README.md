@@ -120,6 +120,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -173,6 +174,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -225,6 +227,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Trie
