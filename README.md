@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0051-n-queens](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -224,6 +225,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
