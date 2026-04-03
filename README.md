@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -177,6 +178,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -249,6 +251,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
