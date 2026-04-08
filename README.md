@@ -47,6 +47,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -98,6 +99,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Hash Table
@@ -108,6 +110,7 @@
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -143,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -256,6 +260,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
