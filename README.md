@@ -51,6 +51,7 @@
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -179,6 +180,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Dynamic Programming
