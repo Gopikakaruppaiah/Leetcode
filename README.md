@@ -60,6 +60,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -153,6 +154,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
