@@ -89,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Simulation
@@ -104,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Hash Table
@@ -119,6 +121,7 @@
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Greedy
@@ -141,6 +144,7 @@
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
