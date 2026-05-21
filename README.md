@@ -12,6 +12,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -31,6 +32,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@
 | [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
