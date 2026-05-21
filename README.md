@@ -48,6 +48,7 @@
 | [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0046-permutations](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0078-subsets/) | Medium |
@@ -298,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
