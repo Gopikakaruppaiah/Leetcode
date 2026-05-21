@@ -90,6 +90,7 @@
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0202-happy-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -128,6 +129,7 @@
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -192,6 +194,7 @@
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0344-reverse-string/) | Easy |
