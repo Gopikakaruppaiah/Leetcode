@@ -109,6 +109,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0649-dota2-senate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Simulation
@@ -153,6 +154,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
 ## String
@@ -177,6 +179,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0649-dota2-senate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
