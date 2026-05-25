@@ -85,6 +85,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
 ## Math
@@ -112,6 +113,7 @@
 | [0649-dota2-senate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@
 | [1603-design-parking-system](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
