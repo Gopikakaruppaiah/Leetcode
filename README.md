@@ -79,6 +79,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -341,6 +342,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1046-last-stone-weight](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
