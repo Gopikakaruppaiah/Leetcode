@@ -355,6 +355,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,4 +373,12 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
