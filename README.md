@@ -360,6 +360,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0207-course-schedule](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String Matching
@@ -395,6 +396,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0207-course-schedule](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,4 +405,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
