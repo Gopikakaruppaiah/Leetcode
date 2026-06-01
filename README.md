@@ -69,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -245,6 +246,7 @@
 | [0035-search-insert-position](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -265,6 +267,7 @@
 | [0070-climbing-stairs](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
