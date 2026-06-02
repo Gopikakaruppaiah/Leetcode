@@ -201,6 +201,7 @@
 | [0649-dota2-senate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -279,6 +280,7 @@
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
