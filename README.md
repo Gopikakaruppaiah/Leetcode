@@ -59,6 +59,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0162-find-peak-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -245,6 +246,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
