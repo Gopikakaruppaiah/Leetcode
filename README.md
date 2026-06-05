@@ -17,6 +17,7 @@
 | [0739-daily-temperatures](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
@@ -37,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -330,6 +333,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
