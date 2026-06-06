@@ -106,6 +106,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,6 +376,7 @@
 | [0064-minimum-path-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
