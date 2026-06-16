@@ -523,5 +523,6 @@
 | [1280-students-and-examinations](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
