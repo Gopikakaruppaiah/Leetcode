@@ -104,6 +104,7 @@
 | [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -383,6 +384,7 @@
 | [0064-minimum-path-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [1672-richest-customer-wealth](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
