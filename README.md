@@ -100,6 +100,7 @@
 | [1046-last-stone-weight](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -183,6 +184,7 @@
 | [0496-next-greater-element-i](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -237,6 +239,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,4 +536,8 @@
 | [1683-invalid-tweets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
