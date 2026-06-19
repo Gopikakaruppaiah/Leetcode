@@ -83,6 +83,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
