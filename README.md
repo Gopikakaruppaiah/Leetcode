@@ -65,6 +65,7 @@
 | [0088-merge-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -355,6 +356,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0136-single-number/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
