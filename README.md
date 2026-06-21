@@ -116,6 +116,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +402,7 @@
 | [0212-word-search-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
