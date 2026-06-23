@@ -62,6 +62,7 @@
 | [0053-maximum-subarray](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -240,6 +241,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -263,6 +265,7 @@
 | [0027-remove-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
