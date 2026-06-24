@@ -137,6 +137,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
@@ -342,6 +343,7 @@
 | [0143-reorder-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -378,6 +380,7 @@
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
