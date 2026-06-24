@@ -130,6 +130,7 @@
 | [0062-unique-paths](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -290,6 +291,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0268-missing-number/) | Easy |
