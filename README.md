@@ -56,6 +56,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0051-n-queens/) | Hard |
@@ -185,6 +186,7 @@
 | [0001-two-sum](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
