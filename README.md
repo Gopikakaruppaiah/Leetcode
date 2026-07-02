@@ -146,6 +146,7 @@
 | [0319-bulb-switcher](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0412-fizz-buzz](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -165,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -243,6 +245,7 @@
 | [0242-valid-anagram](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0649-dota2-senate/) | Medium |
