@@ -1,9 +1,23 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        if(s.length()!=goal.length())
-        {
+        int n = s.length();
+
+        if (n != goal.length()) {
             return false;
         }
-        return (s+s).contains(goal);
+
+        for (int start = 0; start < n; start++) {
+            int j = 0;
+
+            while (j < n && s.charAt((start + j) % n) == goal.charAt(j)) {
+                j++;
+            }
+
+            if (j == n) {
+                return true;
+            }
+        }
+
+        return false;
     }
 }
