@@ -145,6 +145,7 @@
 | [0258-add-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [0326-power-of-three](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0412-fizz-buzz](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -368,6 +369,7 @@
 | [0206-reverse-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
