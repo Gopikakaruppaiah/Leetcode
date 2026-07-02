@@ -149,6 +149,7 @@
 | [0367-valid-perfect-square](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0412-fizz-buzz](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
