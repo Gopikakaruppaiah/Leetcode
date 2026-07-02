@@ -142,6 +142,7 @@
 | [0202-happy-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -166,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -416,6 +418,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/Gopikakaruppaiah/Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
